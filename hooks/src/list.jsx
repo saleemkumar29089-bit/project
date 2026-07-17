@@ -16,7 +16,7 @@ const list = () => {
   },
   {
     id: 3,
-    name: "Priya",
+    name: "Priy",
     age: 21,
     course: "React",
   },
